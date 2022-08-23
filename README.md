@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+# Hi, I'm Eber Cruz
+
+### Systems Engineer | Technical Leader | Full Stack Java Developer   
+
+I'm a Systems Engineer, Overall 9+ years of IT experience developing robust and scalable business web applications for the public and private sector using Java/J2EE technologies in industries like Health, Education, and Financial, using service-oriented architecture and microservices architecture.
 
 <!--
 **ebercruzf/ebercruzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
